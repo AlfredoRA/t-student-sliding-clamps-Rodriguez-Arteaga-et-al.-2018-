@@ -1,7 +1,7 @@
 # t-student-sliding-clamps-Rodriguez-Arteaga-et-al.-2018-
 Data of abundance of amino acids in monomers of sliding clamps
 
-Archive is in: 
+Archive is in: PruebaEst.csv
 To Glutamate: 
 
 datos = read.csv(archive) 
